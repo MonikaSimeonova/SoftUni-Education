@@ -15,9 +15,11 @@ function month(number) {
         default: console.log('Error!'); break;
     }
 }
+//Write a program, that takes an integer as a parameter and prints the corresponding month. If the number is more than 12 or less than 1 print "Error!"
 
 function solve (){
     for (i = 1; i <= 5; i++){
         console.log(i)
     }
 }
+//Write a function that prints all the numbers from 1 to 5 (inclusive) each on a separate line
