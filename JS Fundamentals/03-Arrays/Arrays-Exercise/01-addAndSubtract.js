@@ -1,4 +1,4 @@
-function arraysDemo(input){
+function addAndSubstract(input){
      
     let resultArray = []
     let inputArraySum = 0
@@ -24,4 +24,4 @@ function arraysDemo(input){
     console.log(inputArraySum)
     console.log(resultArraySum)
 }
-arraysDemo([5, 15, 23, 56, 35])
+addAndSubstract([5, 15, 23, 56, 35])
