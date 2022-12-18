@@ -10,3 +10,7 @@ function sumEvenNum(numbers){
     }
     console.log(sum);
 }
+sumEvenNum(['1','2','3','4','5','6'])
+
+/*Write a program, which receives an array of strings, 
+parse them into numbers, and sum only the even numbers */

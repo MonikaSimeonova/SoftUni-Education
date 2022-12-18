@@ -11,3 +11,7 @@ function solve(arr, number){
         }
     }
 }
+solve([1, 7, 6, 2, 19, 23], 8)
+
+/*Write a function, 
+which prints all unique pairs in an array of integers whose sum is equal to a given numbe */

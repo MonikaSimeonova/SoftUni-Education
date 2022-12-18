@@ -31,3 +31,6 @@ function solve (numbers){
     
 }
 solve([3,5,7,9])
+/*Write a program that calculates 
+the difference between the sum of the even and the sum of 
+the odd numbers in an array. */
