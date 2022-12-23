@@ -8,4 +8,6 @@ function single (number){
     }
     console.log(sum)
 }
-single(111)
+single(245678)
+
+/*Write a function, which will be given a single number. Your task is to find the sum of its digits. */
