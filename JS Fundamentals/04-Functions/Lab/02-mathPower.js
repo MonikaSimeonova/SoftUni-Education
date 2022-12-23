@@ -5,3 +5,5 @@ function mathPower(num, numToRaised){
     console.log(res);
 }
 mathPower(2,8)
+
+/*Write a function that calculates and print the value of a number raised to a given power */

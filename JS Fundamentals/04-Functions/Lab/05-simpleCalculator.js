@@ -24,3 +24,5 @@ simplyCalculator(5,
     5,
     
     'multiply')
+
+    /*Write a function that receives three parameters – two numbers and an operator (string) – and calculates the result depending on the operator. Operator can be 'multiply', 'divide', 'add' or 'subtract'. Try to solve this task using arrow functions. */
