@@ -8,3 +8,5 @@ function solve (centuries){
     console.log(`${centuries} centuries = ${years} years = ${days} days = ${hours} hours = ${minutes} minutes`)
 }
 solve(1)
+
+/*Write a program that receives a number of centuries and converts it to years, days, hours, and minute */
