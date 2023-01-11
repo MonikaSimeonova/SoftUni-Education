@@ -1,3 +1,3 @@
-# SoftUni-Education, module Fundamentals JS
+# SoftUni-Education, module Advanced JS
 
 
